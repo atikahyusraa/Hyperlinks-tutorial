@@ -1,0 +1,36 @@
+body
+    {
+   		background-color: #cba3ff;
+   	}
+
+a:link, a:visited
+    {
+    	background-color: purple;
+    	color: blue;
+    	text-decoration: none;
+    	padding: 16px;
+    	text-align: center;
+    	display: inline-flex;
+    	font-family: cursive;
+	}
+
+a:visited
+	{
+		color: #ff43af;
+		background-color: purple;
+		text-decoration: none;
+	}
+
+a:hover
+	{
+		color: #22d3d8;
+		background-color: lightgrey;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: purple;
+		background-color: lightpink;
+		text-decoration: underline;
+	}
